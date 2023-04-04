@@ -3,12 +3,12 @@
 
 ![snake svg](https://github.com/onativo/onativo/blob/output/github-contribution-grid-snake.svg)
 
-<!-- <div disabled>
+<div disabled>
    <a href="https://github.com/onativo">
    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onativo&layout=compact&langs_count=16&theme=dracula" style="margin-right: 55px"/>
    <img align="right" src="https://github-readme-stats.vercel.app/api?username=onativo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
- -->
+ 
 
 
 
