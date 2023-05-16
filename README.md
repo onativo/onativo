@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **...anything I can**
 
-- 👨‍💻 All of my projects are available at [github.com/onativo](github.com/onativo)
+- 👨‍💻 All of my projects are available at [github.com/onativo](https://github.com/onativo)
 
 - 💬 Ask me about **life, the universe and everything**
 
@@ -22,9 +22,9 @@
 - ⚡ Fun fact **I tell silly & nerdy jokes**
 
 <div align="center" style="display:flex; padding:20px; margin: 15px;">
-   <img style="padding: 15px;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onativo&layout=compact&langs_count=16&theme=dracula"/>
+   <img style="padding: 25px;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onativo&layout=compact&langs_count=16&theme=dracula"/>
 
-   <img style="padding: 15px;" align="center" src="https://github-readme-stats.vercel.app/api?username=onativo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+   <img style="padding: 25px;" align="center" src="https://github-readme-stats.vercel.app/api?username=onativo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
  
 <div align="center">
@@ -52,6 +52,3 @@
 
 <img src="./src/img/cat-cute.gif" style="max-width: 50%">
 </div>
-
-<p align="center" style="padding-top: 50px"> <img src="https://komarev.com/ghpvc/?username=onativo&label=Profile%20views:&color=0e75b6&style=flat" alt="onativo" /> </p>
-
