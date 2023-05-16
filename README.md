@@ -7,7 +7,7 @@
 <!-- ![snake svg](https://github.com/onativo/onativo/blob/output/github-contribution-grid-snake.svg) -->
 
 
-- 🔭 I’m currently a intern at **[CompassUOL](compass.uol)**
+- 🔭 I’m currently a intern at **[CompassUOL](https://compass.uol)**
 
 - 🌱 I’m currently learning **AWS, Machine Learning, Lex V2, TypeScript & Angular**
 
