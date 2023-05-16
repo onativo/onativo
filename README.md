@@ -4,9 +4,6 @@
 <h3 align="center">A <strong><i>always looking for new challenges</i></strong> typa person</h3>
 
 
-<!-- ![snake svg](https://github.com/onativo/onativo/blob/output/github-contribution-grid-snake.svg) -->
-
-
 - 🔭 I’m currently a intern at **[CompassUOL](https://compass.uol)**
 
 - 🌱 I’m currently learning **AWS, Machine Learning, Lex V2, TypeScript & Angular**
@@ -19,7 +16,11 @@
 
 - 📫 How to reach me **onativo@outlook.com**
 
-- ⚡ Fun fact **I tell silly & nerdy jokes**
+- ⚡ Fun fact: **I tell silly & nerdy jokes**
+
+<br>
+
+![snake svg](https://github.com/onativo/onativo/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center" style="display:flex; padding:20px; margin: 15px;">
    <img style="padding: 25px;" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onativo&layout=compact&langs_count=16&theme=dracula"/>
