@@ -4,7 +4,7 @@
 <h3 align="center">A <strong><i>always looking for new challenges</i></strong> typa person</h3>
 
 
-![snake svg](https://github.com/onativo/onativo/blob/output/github-contribution-grid-snake.svg)
+<!-- ![snake svg](https://github.com/onativo/onativo/blob/output/github-contribution-grid-snake.svg) -->
 
 
 - 🔭 I’m currently a intern at **[CompassUOL](compass.uol)**
@@ -41,12 +41,8 @@
   </div>
 </div>
 
-<br>
-<hr>
-<br>
-
 <div align="center" > 
-  <h2 style="padding-bottom:20px">Connect with me:</h2>
+  <h2>Connect with me:</h2>
   <a style="padding:15px" href="https://www.linkedin.com/in/onativo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a style="padding:15px" href = "mailto: onativo@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=microsoft&logoColor=white" target="_blank"></a>
 </div>
