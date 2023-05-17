@@ -30,7 +30,7 @@
 
 <div align="center">
 
-  <div style="max-width:70%; background-color: #fff; border-top-left-radius:10px;border-bottom-left-radius:10px;border-top-right-radius:10px;border-bottom-right-radius:10px;">
+  <div style="max-width:70%; background-color: #fff; border-top-left-radius:10px;border-bottom-left-radius:10px;border-top-right-radius:10px;border-bottom-right-radius:10px; padding: 15px;">
     <a style="padding:10px" href="https://aws.amazon.com" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" />
     </a>
