@@ -28,6 +28,8 @@
    <img style="padding: 25px;" height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=onativo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
 
+<br>
+
 <div align="center">
   <a style="padding:10px" href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" />
