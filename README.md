@@ -87,17 +87,17 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
   </a>
 </div>
-<hr>
+<br>
 <div align="center" style="padding-top:30px">
   <a style="padding-top:15px" href="https://www.linkedin.com/in/onativo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a style="padding:15px" href = "mailto: onativo@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=microsoft&logoColor=white" target="_blank"></a>
 </div>
-
+<br>
 <div align="center" style="padding: 15px">
    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=onativo&theme=aura&hide_border=true"/>
   </a>
 </div>
-
+<br>
 <div align="center">
   <h3 style="padding:20px">Here's a funny cat 🐈</h3>
   <img src="./src/img/cat-cute.gif" style="max-width: 50%">
