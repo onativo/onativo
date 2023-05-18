@@ -21,10 +21,10 @@
 
 ![snake svg](https://github.com/onativo/onativo/blob/output/github-contribution-grid-snake.svg)
 
-<div align="center" style="display:flex;">
-   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=onativo&layout=compact&langs_count=6&theme=dracula"/>
+<div align="center" style="display:flex; flex-direction: row;">
+   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=onativo&layout=compact&langs_count=6&theme=dracula"/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=onativo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=onativo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
 
 <br>
