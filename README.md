@@ -24,7 +24,7 @@
 <div align="center" style="display:flex; flex-direction: row;">
    <img width=300px src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=onativo&layout=compact&langs_count=6&theme=dracula"/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-   <img width=350px src="https://github-readme-stats-sigma-five.vercel.app/api?username=onativo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+   <img width=450px src="https://github-readme-stats-sigma-five.vercel.app/api?username=onativo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
 
 <br>
