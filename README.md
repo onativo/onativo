@@ -23,9 +23,9 @@
 ![snake svg](https://github.com/onativo/onativo/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center" style="display:flex; padding:20px; margin: 15px;">
-   <img style="padding: 25px;" height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onativo&layout=compact&langs_count=6&theme=dracula"/>
+   <img style="padding: 25px;" height="180px" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=onativo&layout=compact&langs_count=6&theme=dracula"/>
 
-   <img style="padding: 25px;" height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=onativo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+   <img style="padding: 25px;" height="180px" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=onativo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
 
 <br>
@@ -99,7 +99,9 @@
 <div align="center" >
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=onativo&theme=aura&hide_border=true"/>
   </a>
+  <a href="https://wakatime.com/@fd9499fb-503e-454e-8914-c455c2ac57fe"><img src="https://wakatime.com/badge/user/fd9499fb-503e-454e-8914-c455c2ac57fe.svg" alt="Total time coded since May 16 2023" /></a>
 </div>
+
 <div align="center">
   <hr style="width:25%; padding: 5px;">
   <img src="./src/img/cat-cute.gif" style="max-width: 50%; padding-top: 15px;">
