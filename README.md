@@ -3,7 +3,6 @@
 <h1 align="center">Hello, there! I'm Vini 👋</h1>
 <h3 align="center">A <strong><i>always looking for new challenges</i></strong> typa person</h3>
 
-
 - 🔭 At the present time, I'm a intern at **[CompassUOL](https://compass.uol)**
 
 - 🌱 I’m currently learning **AWS, Machine Learning, Lex V2, TypeScript & Angular**
@@ -14,7 +13,7 @@
 
 - 💬 Ask me about **life, the universe and everything**
 
-- 📫 How to reach me **onativo@outlook.com**
+- 📫 How to reach me **<onativo@outlook.com>**
 
 - ⚡ Fun fact: **I tell silly & nerdy jokes**
 
@@ -23,9 +22,9 @@
 ![snake svg](https://github.com/onativo/onativo/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center" style="display:flex; padding:20px; margin: 15px;">
-   <img style="" width="500px" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=onativo&layout=compact&langs_count=6&theme=dracula"/>
+   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=onativo&layout=compact&langs_count=6&theme=dracula"/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-   <img style="" width="500px" align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=onativo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+   <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=onativo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
 
 <br>
@@ -84,7 +83,7 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
   </a>
-  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
   </a>
