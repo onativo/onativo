@@ -33,10 +33,10 @@
   <p style="font-size: 30px; padding: 10px"><strong>Certifications</strong></p>
   <div align="center">
     <a href="https://www.credly.com/badges/07704469-746f-4445-a2bd-76336ac0a11e/public_url" target="_blank" rel="noreferrer">
-      <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" style="max-width: 145px"/>
+      <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="145"/>
     </a>
     <a href="https://www.credly.com/earner/earned/badge/72e74166-bb36-48d1-86db-65c1c8d7f42d" target="_blank" rel="noreferrer">
-      <img src="https://images.credly.com/size/340x340/images/7abb071f-772a-46fe-a899-5a11699a62dc/GCC_badge_DA_1000x1000.png" style="max-width: 145px"/>
+      <img src="https://images.credly.com/size/340x340/images/7abb071f-772a-46fe-a899-5a11699a62dc/GCC_badge_DA_1000x1000.png" width="145"/>
     </a>
   </div>
 </div>
