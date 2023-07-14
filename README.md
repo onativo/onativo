@@ -3,9 +3,9 @@
 <h1 align="center">Hello, there! I'm Vini 👋</h1>
 <h3 align="center">A <strong><i>always looking for new challenges</i></strong> typa person</h3>
 
-- 🔭 At the present time, I'm a intern at **[CompassUOL](https://compass.uol)**
+- 🔭 At the present time, I'm **looking** for a new position as intern or junior dev
 
-- 🌱 I’m currently learning **AWS, Machine Learning, Lex V2, TypeScript & Angular**
+- 🌱 I’m currently studying **AWS, TypeScript & Angular** as a hobby
 
 - 👯 I’m looking to collaborate on **well... anything I can :)**
 
