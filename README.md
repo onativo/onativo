@@ -5,9 +5,9 @@
 
 - 🔭 At the present time, I'm **looking** for a new position as intern or junior dev
 
-- 🌱 I’m currently studying **AWS, TypeScript & Angular** as a hobby
+- 🌱 I’m currently studying **AWS, TypeScript, Next.Js & TailwindCSS** as a hobby
 
-- 👯 I’m looking to collaborate on **well... anything I can :)**
+- 👯 I’m looking to collaborate on **well... anything I can**. I'm a fast learner ✌🏼
 
 - 👨‍💻 All of my projects are available at [github.com/onativo](https://github.com/onativo)
 
@@ -19,7 +19,7 @@
 
 <br>
 
-![snake svg](https://github.com/onativo/onativo/blob/output/github-contribution-grid-snake.svg)
+<!--![snake svg](https://github.com/onativo/onativo/blob/output/github-contribution-grid-snake.svg)-->
 
 <div align="center" style="display:flex; flex-direction: row;">
    <img width=300px src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=onativo&layout=compact&langs_count=6&theme=dracula"/>
