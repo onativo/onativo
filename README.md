@@ -35,10 +35,21 @@
     <a href="https://www.credly.com/badges/07704469-746f-4445-a2bd-76336ac0a11e/public_url" target="_blank" rel="noreferrer">
       <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="145"/>
     </a>
-    <a href="https://www.credly.com/earner/earned/badge/72e74166-bb36-48d1-86db-65c1c8d7f42d" target="_blank" rel="noreferrer">
+  </div>
+</div>
+
+<div align="center">
+  <p style="font-size: 30px; padding:25px"><strong>My Badges</strong></p>
+  <div align="center">
+      <a href="https://www.credly.com/earner/earned/badge/72e74166-bb36-48d1-86db-65c1c8d7f42d" target="_blank" rel="noreferrer" style="padding: 20px">
       <img src="https://images.credly.com/size/340x340/images/7abb071f-772a-46fe-a899-5a11699a62dc/GCC_badge_DA_1000x1000.png" width="145"/>
     </a>
+      <a href="https://www.credly.com/badges/b4c1ba99-71c3-4e67-b2e6-497fef9552af" target="_blank" rel="noreferrer" style="padding: 20px">
+      <img src="https://images.credly.com/size/340x340/images/7fa91a10-3cbe-48fb-bd0e-c3e4cf27065f/image.png" width="145"/>
+    </a>
+
   </div>
+
 </div>
 
 <br>
