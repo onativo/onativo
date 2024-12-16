@@ -11,6 +11,8 @@
 
 - 👨‍💻 All of my projects are available at [github.com/onativo](https://github.com/onativo)
 
+- 🖥️ Hey! Checkout my portfolio website hosted at [Vercel](https://onativo.vercel.app/) :)
+
 - 💬 Ask me about **life, the universe and everything**
 
 - 📫 How to reach me **<onativo@outlook.com>**
