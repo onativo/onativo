@@ -3,9 +3,9 @@
 <h1 align="center">Hello, there! I'm Vini 👋</h1>
 <h3 align="center">A <strong><i>always looking for new challenges</i></strong> typa person</h3>
 
-- 🔭 At the present time, I'm **working** as a Cloud Intern at [Blu](https://blu.com.br)
+- 🔭 At the present time, I'm **working** as a Jr. Platform Engineer at [Blu](https://blu.com.br)
 
-- 🌱 I’m currently improving my skills as a **DevOps**
+- 🌱 I’m currently improving my skills as a **Platform Engineer**
 
 - 👯 I’m looking to collaborate on **well... anything I can**. I'm a fast learner ✌🏼
 
@@ -13,7 +13,7 @@
 
 - 🖥️ Hey! Checkout my portfolio website hosted at [Vercel](https://onativo.vercel.app/) :)
 
-- 💬 Ask me about **life, the universe and everything**
+- 💬 Ask me about... **life, the universe and everything**
 
 - 📫 How to reach me **<onativo@outlook.com>**
 
